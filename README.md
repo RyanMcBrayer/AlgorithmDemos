@@ -13,7 +13,7 @@ You have a knapsack of capacity c, given a sequence of n items with wieghts w an
 find the optimal packing to maximimize the value of items while being within the capacity constraint.
 
 # Online Caching Problem (Greedy)
-Given a cache of size k and a sequence of n requests, implement an optimal eveiction policy to
+Given a cache of size k and a sequence of n requests, implement an optimal eviction policy to
 minimize the number of faults.
 
 # Bipartite Matching Problem (Network Flow)
