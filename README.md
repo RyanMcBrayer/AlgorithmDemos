@@ -11,3 +11,6 @@ Given n lines with endpoints on x=0 and x=1, count the number of intersections b
 # Knapsack Problem (Dynamic Programming)
 You have a knapsack of capacity c, given a sequence of n items with wieghts w and values v,
 find the optimal packing to maximimize the value of items while being within the capacity constraint.
+
+# Bipartite Matching Problem (Network Flow)
+
