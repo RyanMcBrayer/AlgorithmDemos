@@ -9,4 +9,5 @@ Please see the PDF file in each folder for a full problem explanation, input for
 Given n lines with endpoints on x=0 and x=1, count the number of intersections between the lines.
 
 # Knapsack Problem (Dynamic Programming)
-Given 
+You have a knapsack of capacity c, given a sequence of n items with wieghts w and values v,
+find the optimal packing to maximimize the value of items while being within the capacity constraint.
