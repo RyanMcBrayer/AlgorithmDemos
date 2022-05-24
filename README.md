@@ -1,4 +1,4 @@
-# AlgorithmDemos
+# Algorithm Demos
 A few demonstrations of algorithmic problems
 
 These demos include Divide and Conquer, Dynamic Programming, and Network Flow.
