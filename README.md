@@ -13,4 +13,5 @@ You have a knapsack of capacity c, given a sequence of n items with wieghts w an
 find the optimal packing to maximimize the value of items while being within the capacity constraint.
 
 # Bipartite Matching Problem (Network Flow)
-
+Given a graph that descibes the relationship between two sets A and B, find the value
+of the maximum matching and tell if the matching is perfect.
