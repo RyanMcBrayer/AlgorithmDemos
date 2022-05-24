@@ -14,4 +14,4 @@ find the optimal packing to maximimize the value of items while being within the
 
 # Bipartite Matching Problem (Network Flow)
 Given a graph that descibes the relationship between two sets A and B, find the value
-of the maximum matching between the sets and tell if the matching is perfect.
+of the maximum matching between the sets and determine if a perfect matching is possible.
