@@ -1,5 +1,5 @@
 # Algorithm Demos
-A few demonstrations of algorithmic problems
+A few demonstrations of algorithmic problems, implemented in Java.
 
 These demos include Divide and Conquer, Dynamic Programming, and Network Flow.
 They are implemented in Java.
